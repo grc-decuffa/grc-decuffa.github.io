@@ -2,7 +2,8 @@
 
 h1{ 
 color: rgb(0,0,128); 
-background-color: rgb(70,130,180)
+background-color: rgb(70,130,180) 
+margin: 1em 2em 1.5em 0.5em;
 font-family:serif;
 font-size: 2.5em;
 text-transform:uppercase;
@@ -10,8 +11,9 @@ text-transform:uppercase;
 
 h2{ 
 color:rgb(70,130,180); 
-font-famikly:serif;
+font-family:serif;
 font-size: 2em;
+text-align:center;
 } 
 
 h3{ 
