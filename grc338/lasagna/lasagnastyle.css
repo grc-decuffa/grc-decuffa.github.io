@@ -26,7 +26,7 @@ text-transform: uppercase;
 .ingredients h3{ 
 color:rgb(95,158,160);}
 
-div.ingredients{ 
+.ingredients{ 
 color:rgb(95,158,160);
 background-color:rgb(95,158,160,0.4);
 }
@@ -34,7 +34,7 @@ background-color:rgb(95,158,160,0.4);
 .directions h3{ 
 color:rgb(255,64,35);}
 
-div.directions{ 
+.directions{ 
 color:rgb(255,64,35);
 background-color:rgb(255,64,35,0.4); 
 }
