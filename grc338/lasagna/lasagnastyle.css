@@ -26,17 +26,17 @@ text-transform: uppercase;
 .ingredients h3{ 
 color:rgb(95,158,160);}
 
-.ingredients{ 
+div.ingredients{ 
 color:rgb(95,158,160);
-background-color:rgb(95,158,160,0.4);
+background-color:rgba(95,158,160,0.4);
 }
 
 .directions h3{ 
 color:rgb(255,64,35);}
 
-.directions{ 
+div.directions{ 
 color:rgb(255,64,35);
-background-color:rgb(255,64,35,0.4); 
+background-color:rgba(255,64,35,0.4); 
 }
 
 h6{ 
