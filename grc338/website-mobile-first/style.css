@@ -1,0 +1,68 @@
+img {
+    width: 75%;
+}
+
+h1 {
+    width: 20em;
+    font-family: sans-serif;
+    text-transform: uppercase;
+    font-size: 1.5em;
+}
+
+.maincontent {
+    color: #ff1493;
+    background-color: rgb(255, 20, 147, 0.1);
+}
+
+.Address {
+    color: #ff1493;
+    background-color: rgb(255, 20, 147, 0.1);
+    padding-bottom: 0.2em;
+}
+nav ul {
+    padding: 0;
+}
+nav ul li {
+    list-style: none;
+    display: inline;
+    margin-right: 2em;
+    font-family: sans-serif;
+    text-transform: uppercase;
+    font-weight: bold;
+    letter-spacing: 0.1em;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: rgb(1, 50, 32, 0.5);
+}
+
+.price {
+    color: #ffffff;
+    background-color: rgb(1, 50, 32, 0.5);
+    font-style: italic;
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+    font-style: italic;
+}
+
+.menu {
+    color: #ff1493;
+    font-size: 1.2em;
+    text-transform: uppercase;
+    font-family: sans-serif;
+}
+
+h4 {
+    font-family: sans-serif;
+}
+
+h2 {
+    text-transform: uppercase;
+    font-size: 1.2em;
+    padding-top: 1em;
+}
+
+h3 {
+    font-family: sans-serif;
+}
