@@ -1,5 +1,5 @@
 img {
-    width: 100%;
+    width: 75%;
 }
 
 h1 {
@@ -7,7 +7,6 @@ h1 {
     font-family: sans-serif;
     text-transform: uppercase;
     font-size: 1.5em;
-    float: left;
 }
 
 .maincontent {
@@ -23,11 +22,6 @@ h1 {
 .Address {
     color: #ff1493;
     width: 50%;
-}
-
-nav {
-    float: right;
-    padding-top: 2.5em;
 }
 
 nav ul {
